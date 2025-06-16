@@ -1,0 +1,923 @@
+{
+    "content": [
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "[i]Training-Dummy Rabbit[/i]"
+                },
+                {
+                    "correct": true,
+                    "text": "[i]Standard Training-Dummy Rabbit[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]Standard Training Rabbit[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]Elementary Training-Dummy Rabbit[/i]"
+                }
+            ],
+            "id": "300001",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the correct FULL name for the tutorial abnormality 0-00-00?",
+            "text": "What is the correct FULL name for the tutorial abnormality 0-00-00?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "[i]Blue Star[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]The Funeral of the Dead Butterflies[/i]"
+                },
+                {
+                    "correct": true,
+                    "text": "[i]CENSORED[/i]"
+                },
+                {
+                    "correct": false,
+                    "text": "[i]Skin Prophecy[/i]"
+                }
+            ],
+            "id": "300002",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormalities does NOT instakill if an employee runs out of sanity?",
+            "text": "Which of these abnormalities does NOT instakill if an employee runs out of sanity?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "14"
+                },
+                {
+                    "correct": false,
+                    "text": "15"
+                },
+                {
+                    "correct": false,
+                    "text": "16"
+                },
+                {
+                    "correct": true,
+                    "text": "17"
+                }
+            ],
+            "id": "300003",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many TOOL abnormalities exist in the game?",
+            "text": "How many TOOL abnormalities exist in the game?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "4"
+                },
+                {
+                    "correct": true,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "7"
+                }
+            ],
+            "id": "300004",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many MOUNTING/EQUIP TOOL abnormalities exist in the game?",
+            "text": "How many MOUNTING/EQUIP TOOL abnormalities exist in the game?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "D"
+                },
+                {
+                    "correct": false,
+                    "text": "F"
+                },
+                {
+                    "correct": false,
+                    "text": "0"
+                },
+                {
+                    "correct": true,
+                    "text": "M"
+                }
+            ],
+            "id": "300005",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormality ID prefixes does not exist in the game?",
+            "text": "Which of these abnormality ID prefixes does not exist in the game?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "You're Bald..."
+                },
+                {
+                    "correct": false,
+                    "text": "One Sin and Hundreds of Good Deeds"
+                },
+                {
+                    "correct": false,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": false,
+                    "text": "Plague Doctor"
+                }
+            ],
+            "id": "300006",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these ZAYIN abnormalities does NOT deal RED or WHITE damage?",
+            "text": "Which of these ZAYIN abnormalities does NOT deal RED or WHITE damage?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Limit Break: The Virtue of Creativity"
+                },
+                {
+                    "correct": false,
+                    "text": "Qliphoth Intervention Field"
+                },
+                {
+                    "correct": false,
+                    "text": "Limit Break: The Virtue of Governance"
+                },
+                {
+                    "correct": false,
+                    "text": "Gift Division"
+                }
+            ],
+            "id": "300007",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these Researches does not exist in the game?",
+            "text": "Which of these Researches does not exist in the game?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "3"
+                },
+                {
+                    "correct": true,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "10"
+                }
+            ],
+            "id": "300008",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many usages before an agent explodes using You Must Be Happy?",
+            "text": "How many usages before an agent explodes using You Must Be Happy?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Quiet"
+                },
+                {
+                    "correct": false,
+                    "text": "Attentive"
+                },
+                {
+                    "correct": true,
+                    "text": "Timid"
+                },
+                {
+                    "correct": false,
+                    "text": "Frivolous"
+                }
+            ],
+            "id": "300009",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these PRIMARY titles increase HP?",
+            "text": "Which of these PRIMARY titles increase HP?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Forsaken Murderer"
+                },
+                {
+                    "correct": false,
+                    "text": "1.76 MHz"
+                },
+                {
+                    "correct": false,
+                    "text": "Nothing There"
+                },
+                {
+                    "correct": true,
+                    "text": "Express Train To Hell"
+                }
+            ],
+            "id": "300010",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormalities does not cause any sound when idling in containment?",
+            "text": "Which of these abnormalities does not cause any sound when idling in containment?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "One Sin and Hundreds of Good Deeds"
+                },
+                {
+                    "correct": false,
+                    "text": "WhiteNight"
+                },
+                {
+                    "correct": false,
+                    "text": "Judgement Bird"
+                },
+                {
+                    "correct": true,
+                    "text": "Fragment of the Universe"
+                }
+            ],
+            "id": "300011",
+            "introAudio": "Apocalypse Bird has work preferences and damage type from a placeholder, but can you guess",
+            "outro": null,
+            "questionAudio": "Which abnormality work preferences and damage type was used as a placeholder for Apocalypse bird?",
+            "text": "Which abnormality work preferences and damage type was used as a placeholder for Apocalypse bird?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Nervous"
+                },
+                {
+                    "correct": true,
+                    "text": "Frightened"
+                },
+                {
+                    "correct": false,
+                    "text": "Overwhelmed"
+                },
+                {
+                    "correct": false,
+                    "text": "Reverence"
+                }
+            ],
+            "id": "300012",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which Fear Level does not exist in the game?",
+            "text": "Which Fear Level does not exist in the game?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Dimensional Refraction Variant"
+                },
+                {
+                    "correct": false,
+                    "text": "Melting Love"
+                },
+                {
+                    "correct": false,
+                    "text": "1.76 MHz"
+                },
+                {
+                    "correct": false,
+                    "text": "The Knight of Despair"
+                }
+            ],
+            "id": "300013",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these Abnormalities does not have an E.G.O Suit?",
+            "text": "Which of these Abnormalities does not have an E.G.O Suit?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "6"
+                },
+                {
+                    "correct": true,
+                    "text": "7"
+                },
+                {
+                    "correct": false,
+                    "text": "8"
+                }
+            ],
+            "id": "300014",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which request count (and onwards) makes Der Freischütz shoots randomly?",
+            "text": "Which request count (and onwards) makes Der Freischütz shoots randomly?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Second Movement"
+                },
+                {
+                    "correct": true,
+                    "text": "Third Movement"
+                },
+                {
+                    "correct": false,
+                    "text": "Fourth Movement"
+                },
+                {
+                    "correct": false,
+                    "text": "Finale"
+                }
+            ],
+            "id": "300015",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which movement of The Silent Orchestra plays a high-pitched noise?",
+            "text": "Which movement of The Silent Orchestra plays a high-pitched noise?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "13"
+                },
+                {
+                    "correct": false,
+                    "text": "15"
+                },
+                {
+                    "correct": false,
+                    "text": "18"
+                },
+                {
+                    "correct": false,
+                    "text": "20"
+                }
+            ],
+            "id": "300016",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What day will ALEPHs start appearing? (Not counting Plague Doctor and Army in Black)",
+            "text": "What day will ALEPHs start appearing? (Not counting Plague Doctor and Army in Black)",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "14"
+                },
+                {
+                    "correct": true,
+                    "text": "16"
+                },
+                {
+                    "correct": false,
+                    "text": "18"
+                },
+                {
+                    "correct": false,
+                    "text": "20"
+                }
+            ],
+            "id": "300017",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many PE-boxes do you need to turn Hysteric Queen of Hatred back into normal state?",
+            "text": "How many PE-boxes do you need to turn Hysteric Queen of Hatred back into normal state?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": false,
+                    "text": "The King of Greed"
+                },
+                {
+                    "correct": false,
+                    "text": "The Knight of Despair"
+                },
+                {
+                    "correct": true,
+                    "text": "None of the above"
+                }
+            ],
+            "id": "300018",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of the Magical Girls cannot breach?",
+            "text": "Which of the Magical Girls cannot breach?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "3"
+                },
+                {
+                    "correct": false,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "7"
+                },
+                {
+                    "correct": false,
+                    "text": "10"
+                }
+            ],
+            "id": "300019",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many corpses does Mountain of Smiling Bodies need to consume to grow an extra part?",
+            "text": "How many corpses does Mountain of Smiling Bodies need to consume to grow an extra part?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": false,
+                    "text": "Mountain of Smiling Bodies"
+                },
+                {
+                    "correct": false,
+                    "text": "Army in Black"
+                },
+                {
+                    "correct": false,
+                    "text": "Clouded Monk"
+                }
+            ],
+            "id": "300020",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which abnormality ability ALSO counts employees killed by Execution Bullets?",
+            "text": "Which abnormality ability ALSO counts employees killed by Execution Bullets?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "0%"
+                },
+                {
+                    "correct": false,
+                    "text": "15%"
+                },
+                {
+                    "correct": true,
+                    "text": "30%"
+                },
+                {
+                    "correct": false,
+                    "text": "45%"
+                }
+            ],
+            "id": "300021",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "If you send an agent with Fortitude level 2 to duel Snow Queen, what is their chance to win?",
+            "text": "If you send an agent with Fortitude level 2 to duel Snow Queen, what is their chance to win?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "10"
+                },
+                {
+                    "correct": false,
+                    "text": "15"
+                },
+                {
+                    "correct": true,
+                    "text": "20"
+                }
+            ],
+            "id": "300022",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How much Work Success Rate and Work Speed stats does Notes from a Crazed Researcher give?",
+            "text": "How much Work Success Rate and Work Speed stats does Notes from a Crazed Researcher give?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "60"
+                },
+                {
+                    "correct": false,
+                    "text": "90"
+                },
+                {
+                    "correct": false,
+                    "text": "230"
+                },
+                {
+                    "correct": true,
+                    "text": "270"
+                }
+            ],
+            "id": "300023",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many seconds does it require for WhiteNight's qliphoth counter to reduce from 3 to 0?",
+            "text": "How many seconds does it require for WhiteNight's qliphoth counter to reduce from 3 to 0?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Punishing Bird"
+                },
+                {
+                    "correct": false,
+                    "text": "Big Bird"
+                },
+                {
+                    "correct": false,
+                    "text": "Child of the Galaxy"
+                },
+                {
+                    "correct": false,
+                    "text": "Dream of a Black Swan"
+                }
+            ],
+            "id": "300024",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormalities does NOT have a max qliphoth counter of 5?",
+            "text": "Which of these abnormalities does NOT have a max qliphoth counter of 5?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Der Freischütz"
+                },
+                {
+                    "correct": true,
+                    "text": "Scorched Girl"
+                },
+                {
+                    "correct": false,
+                    "text": "Army in Black"
+                },
+                {
+                    "correct": false,
+                    "text": "The Firebird"
+                }
+            ],
+            "id": "300025",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormalities does NOT have a max qliphoth counter of 3?",
+            "text": "Which of these abnormalities does NOT have a max qliphoth counter of 3?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": false,
+                    "text": "Big Bird"
+                },
+                {
+                    "correct": true,
+                    "text": "Judgement Bird"
+                },
+                {
+                    "correct": false,
+                    "text": "Old Lady"
+                }
+            ],
+            "id": "300026",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which of these abnormalities CANNOT increase its qliphoth counter?",
+            "text": "Which of these abnormalities CANNOT increase its qliphoth counter?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Instinct"
+                },
+                {
+                    "correct": false,
+                    "text": "Insight"
+                },
+                {
+                    "correct": false,
+                    "text": "Attachment"
+                },
+                {
+                    "correct": true,
+                    "text": "Repression"
+                }
+            ],
+            "id": "300027",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which work type reduces the qliphoth counter of the TUTORIAL Abnormality?",
+            "text": "Which work type reduces the qliphoth counter of the TUTORIAL Abnormality?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "666"
+                },
+                {
+                    "correct": false,
+                    "text": "1780"
+                },
+                {
+                    "correct": true,
+                    "text": "3330"
+                },
+                {
+                    "correct": false,
+                    "text": "9999"
+                }
+            ],
+            "id": "300028",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How much damage does the light from confession deal to Whitenight per tick if NOT accounting its 0.2 PALE resistance?",
+            "text": "How much damage does the light from confession deal to Whitenight per tick if NOT accounting its 0.2 PALE resistance?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "666"
+                },
+                {
+                    "correct": false,
+                    "text": "1780"
+                },
+                {
+                    "correct": true,
+                    "text": "3330"
+                },
+                {
+                    "correct": false,
+                    "text": "9999"
+                }
+            ],
+            "id": "300029",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How much damage does the light from confession deal to whitenight per tick if NOT accounting its 0.2 PALE resistance?",
+            "text": "How much damage does the light from confession deal to whitenight per tick if NOT accounting its 0.2 PALE resistance?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "5"
+                },
+                {
+                    "correct": false,
+                    "text": "10"
+                },
+                {
+                    "correct": true,
+                    "text": "15"
+                },
+                {
+                    "correct": false,
+                    "text": "20"
+                }
+            ],
+            "id": "300030",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How much does the chance to explode increase per usage of Giant Tree Sap?",
+            "text": "How much does the chance to explode increase per usage of Giant Tree Sap?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "X-394"
+                },
+                {
+                    "correct": false,
+                    "text": "A-394"
+                },
+                {
+                    "correct": false,
+                    "text": "X-121"
+                },
+                {
+                    "correct": false,
+                    "text": "L-378"
+                }
+            ],
+            "id": "300031",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What is the name of the facility the player works in Lobotomy Corporation?",
+            "text": "What is the name of the facility the player works in Lobotomy Corporation?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "2016"
+                },
+                {
+                    "correct": false,
+                    "text": "2017"
+                },
+                {
+                    "correct": true,
+                    "text": "2018"
+                },
+                {
+                    "correct": false,
+                    "text": "2019"
+                }
+            ],
+            "id": "300032",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "What year was the INITIAL release date of Lobotomy Corporation?",
+            "text": "What year was the INITIAL release date of Lobotomy Corporation?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Malkuth"
+                },
+                {
+                    "correct": true,
+                    "text": "Yesod"
+                },
+                {
+                    "correct": false,
+                    "text": "Gebura"
+                },
+                {
+                    "correct": false,
+                    "text": "Chesed"
+                }
+            ],
+            "id": "300033",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "text": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "Malkuth"
+                },
+                {
+                    "correct": false,
+                    "text": "Yesod"
+                },
+                {
+                    "correct": true,
+                    "text": "Gebura"
+                },
+                {
+                    "correct": false,
+                    "text": "Chesed"
+                }
+            ],
+            "id": "300034",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "text": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "us": false,
+            "x": false
+        }
+
+    ]
+}

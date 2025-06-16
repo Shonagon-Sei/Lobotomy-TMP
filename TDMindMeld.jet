@@ -1,0 +1,522 @@
+{
+    "content": [
+        {
+            "answers": [
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "angela"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "malkuth"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "yesod"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "netzach"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "hod"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "tiphereth"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "gebura"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "chesed"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "hokma"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "binah"
+                }
+            ],
+            "id": "800000",
+            "text": "Sephirah",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "control team"
+                    ],
+                    "answer": "control"
+                },
+                {
+                    "alt": [
+                        "information team"
+                    ],
+                    "answer": "information"
+                },
+                {
+                    "alt": [
+                        "training team"
+                    ],
+                    "answer": "training"
+                },
+                {
+                    "alt": [
+                        "safety team",
+                        "security",
+                        "security team"
+                    ],
+                    "answer": "safety"
+                },
+                {
+                    "alt": [
+                        "central command team",
+                        "central",
+                        "central team"
+                    ],
+                    "answer": "central command"
+                },
+                {
+                    "alt": [
+                        "disciplinary team"
+                    ],
+                    "answer": "disciplinary"
+                },
+                {
+                    "alt": [
+                        "welfare team"
+                    ],
+                    "answer": "welfare"
+                },
+                {
+                    "alt": [
+                        "extraction team"
+                    ],
+                    "answer": "extraction"
+                },
+                {
+                    "alt": [
+                        "record team"
+                    ],
+                    "answer": "record"
+                },
+                {
+                    "alt": [
+                        "architecture team"
+                    ],
+                    "answer": "architecture"
+                }
+            ],
+            "id": "800001",
+            "text": "Departments",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "apoc bird"
+                    ],
+                    "answer": "apocalypse bird"
+                },
+                {
+                    "alt": [
+                        "aib"
+                    ],
+                    "answer": "army in black"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "blue star"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "censored"
+                },
+                {
+                    "alt": [
+                        "ml"
+                    ],
+                    "answer": "melting love"
+                },
+                {
+                    "alt": [
+                        "nt"
+                    ],
+                    "answer": "nothing there"
+                },
+                {
+                    "alt": [
+                        "mosb"
+                    ],
+                    "answer": "mountain of smiling bodies"
+                },
+                {
+                    "alt": [
+                        "tso"
+                    ],
+                    "answer": "the silent orchestra"
+                },
+                {
+                    "alt": [
+                        "wn",
+                        "white night"
+                    ],
+                    "answer": "whitenight"
+                }
+            ],
+            "id": "800002",
+            "text": "ALEPH Abnormalities",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "one sin"
+                    ],
+                    "answer": "one sin and hundreds of good deeds"
+                },
+                {
+                    "alt": [
+                        "dtm",
+                        "dont touch me"
+                    ],
+                    "answer": "don't touch me"
+                },
+                {
+                    "alt": [
+                        "ff",
+                        "fairy"
+                    ],
+                    "answer": "fairy festival"
+                },
+                {
+                    "alt": [
+                        "mirror",
+                        "adjustment"
+                    ],
+                    "answer": "mirror of adjustment"
+                },
+                {
+                    "alt": [
+                        "old faith",
+                        "promise"
+                    ],
+                    "answer": "old faith and promise"
+                },
+                {
+                    "alt": [
+                        "opened can",
+                        "wellcheers",
+                        "can"
+                    ],
+                    "answer": "opened can of wellcheers"
+                },
+                {
+                    "alt": [
+                        "plague"
+                    ],
+                    "answer": "plague doctor"
+                },
+                {
+                    "alt": [
+                        "wccy"
+                    ],
+                    "answer": "we can change anything"
+                },
+                {
+                    "alt": [
+                        "ymbh"
+                    ],
+                    "answer": "you must be happy"
+                },
+                {
+                    "alt": [
+                        "bald",
+                        "your bald",
+                        "you're bald",
+                        "your bald...",
+                        "bald is awesome"
+                    ],
+                    "answer": "you're bald..."
+                }
+            ],
+            "id": "800003",
+            "text": "Zayin Abnormalities",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "one sin"
+                    ],
+                    "answer": "one sin and hundreds of good deeds"
+                },
+                {
+                    "alt": [
+                        "dtm",
+                        "dont touch me"
+                    ],
+                    "answer": "don't touch me"
+                },
+                {
+                    "alt": [
+                        "ff",
+                        "fairy"
+                    ],
+                    "answer": "fairy festival"
+                },
+                {
+                    "alt": [
+                        "mirror",
+                        "adjustment"
+                    ],
+                    "answer": "mirror of adjustment"
+                },
+                {
+                    "alt": [
+                        "old faith",
+                        "promise"
+                    ],
+                    "answer": "old faith and promise"
+                },
+                {
+                    "alt": [
+                        "opened can",
+                        "wellcheers",
+                        "can"
+                    ],
+                    "answer": "opened can of wellcheers"
+                },
+                {
+                    "alt": [
+                        "plague"
+                    ],
+                    "answer": "plague doctor"
+                },
+                {
+                    "alt": [
+                        "wccy"
+                    ],
+                    "answer": "we can change anything"
+                },
+                {
+                    "alt": [
+                        "ymbh"
+                    ],
+                    "answer": "you must be happy"
+                },
+                {
+                    "alt": [
+                        "bald",
+                        "your bald",
+                        "you're bald",
+                        "your bald..."
+                    ],
+                    "answer": "you're bald..."
+                }
+            ],
+            "id": "800003",
+            "text": "Zayin Abnormalities",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "relaxed"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "calm"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "nervous"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "terrified"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "hopeless"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "overwhelmed"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "reverence"
+                }
+            ],
+            "id": "800004",
+            "text": "Fear Levels",
+            "us": false,
+            "x": false
+        },
+        {
+            "answers": [
+                {
+                    "alt": [
+                        "1.76",
+                        "1.76mhz",
+                        "176 mhz"
+                    ],
+                    "answer": "1.76 mhz"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "beauty and the beast"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "bloodbath"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "crumbling Armor"
+                },
+                {
+                    "alt": [
+                        "forsaken"
+                    ],
+                    "answer": "forsaken murderer"
+                },
+                {
+                    "alt": [
+                        "fotu",
+                        "fragement of universe"
+                    ],
+                    "answer": "fragment of the universe"
+                },
+                {
+                    "alt": [
+                        "cherry blossoms"
+                    ],
+                    "answer": "grave of cherry blossoms"
+                },
+                {
+                    "alt": [
+                        "lantern"
+                    ],
+                    "answer": "meat lantern"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "old lady"
+                },
+                {
+                    "alt": [
+                        "podar",
+                        "dog"
+                    ],
+                    "answer": "ppodae"
+                },
+                {
+                    "alt": [
+                        "small bird"
+                    ],
+                    "answer": "punishing bird"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "scorched girl"
+                },
+                {
+                    "alt": [
+                        "shy look",
+                        "todays shy look"
+                    ],
+                    "answer": "today's shy look"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "spider bud"
+                },
+                {
+                    "alt": [
+                        ""
+                    ],
+                    "answer": "void dream"
+                },
+                {
+                    "alt": [
+                        "lady facing the wall",
+                        "lady facing wall"                       
+                    ],
+                    "answer": "the lady facing the wall"
+                }
+            ],
+            "id": "800005",
+            "text": "TETH Abnormalities that aren't TOOLS",
+            "us": false,
+            "x": false
+        }
+    ]
+}

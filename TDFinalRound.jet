@@ -1,0 +1,2846 @@
+{
+    "content": [
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Acacia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Adam"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Alex"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Alisa"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Anastasia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Angel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Angelina"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Anthony"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Anton"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ara"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Arang"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Archer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Asera"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ashely"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Aurora"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Basil"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bella"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bong-Bong"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Brook"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Brown"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Camille"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cedric"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Charlotte"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Christopher"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cloie"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cooper"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Corbinian"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Courtney"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dakota"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dana"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Daniel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Daphne"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Delaney"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Delilah"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Destiny"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Devona"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dexter"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Diva"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eden"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Elena"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eliza"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Emilia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Emma"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eugene"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eva"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Evangeline"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Everett"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Evgeni"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Finn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Firenze"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Frank"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gabriella"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Galina"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Geminiano"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Genie"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Georgia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gonzales"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gregory"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Griffin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gustafsson"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "HaLynn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hana"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hannah"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hao"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Harry"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Haru"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hoon"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hunter"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Igoree"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Isabel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jacob"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jake"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Joel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Jose"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "John"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Johnson"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Joshua"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Joy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Julian"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Juliet"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Justin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Katya"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Khanna"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Kinsley"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Knox"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Lamarcus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "LaVerne"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Loki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "London"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Louis"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mabel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Maki"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mao"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Marinel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Maritza"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mary"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mason"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Max"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Maxim"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Maximin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Maxwell"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mckenna"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mei"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Melendez"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Micaela"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Miho"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mika"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mirabelle"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Morty"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Narae"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Neville"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nicolas"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nicole"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Noah"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Odelie"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Olive"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Oliver"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Onorio"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Orga"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Owen"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pansy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Parker"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Paul"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Paulinus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Piper"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Poussey"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Quinn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ramirez"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ray"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Reinhardt"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ria"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rino"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "River"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Robertus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rogun"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rose"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ruby"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ryn"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Samuel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sanchez"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sergey"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Shao"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Summer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Susan"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tasha"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tatyana"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tiffany"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tim"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Tom"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Velasquez"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vera"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Viktor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Vincent"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Wetherby"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Xavier"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yoon-hoo"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yui"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yumi"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yum-yum"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Yuri"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zephyr"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bramble"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lysander"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cordelia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Thaddeus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Seraphina"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cassius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Persephone"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ambrose"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Evangelia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dimitri"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Calliope"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lucianus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Theodora"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Octavius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Isadora"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Barnaby"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ophelia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Caspian"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Penelope"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Maximiliano"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Araminta"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Sebastian"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Clementine"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bartholomew"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gwendolyn"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Tiberius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Beatrice"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Alastair"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vivienne"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Montgomery"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cordelia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Reginald"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Genevieve"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Percival"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Arabella"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ignatius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rosalind"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cornelius"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Josephine"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Balthazar"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Evangeline"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Maximilian"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Anastasha"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Phineas"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Crescentia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mordecai"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Guinevere"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ezekiel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Philomena"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Leander"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cordula"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Zoe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Kai"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nyx"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rex"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ivy"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fox"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rue"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Lex"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Wren"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Sage"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vale"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cleo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Raven"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blaze"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nova"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Jett"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Iris"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cruz"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Luna"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dash"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Skye"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Reed"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Oryx"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Jade"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Phoenix"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Storm"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vex"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Clay"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Onyx"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fern"
+                }
+            ],
+            "id": "400000",
+            "text": "Default Agent Names (Not Counting Backer Names)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hat"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Helmet"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Eye"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Face"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mouth 1"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mouth 2"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cheek"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Brooch"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Neckwear"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Left Back"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Right Back"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hand 1"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hand 2"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Special"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Body"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Left Leg"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Right Leg"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Crotch"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Eye Brows"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Arms"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nose"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Left Foot"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Right Foot"
+                }
+            ],
+            "id": "400001",
+            "text": "E.G.O Gift Slots"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Blunt"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Indecisive"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Lazy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Timid"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Amicable"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Quiet"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Stuffy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Suave"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Honest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Earnest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Attentive"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gloomy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bright"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Frivolous"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Plucky"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cheery"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Arrogant"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Optimistic"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Audacious"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Radical"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nefarious"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sly"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Composed"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pessimistic"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Zany"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ferocious"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Prim"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Cold-Blooded"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Modest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Prudent"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dastardly"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Generous"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Selfless"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Draconian"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Sharp-Tempered"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Steadfast"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Boisterous"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Melancholic"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Whimsical"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cantankerous"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vivacious"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Morose"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Spirited"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Laconic"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Exuberant"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Truculent"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Gregarious"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Sardonic"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Effervescent"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Taciturn"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ebullient"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mercurial"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Convivial"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Petulant"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Magnanimous"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Querulous"
+                }
+            ],
+            "id": "400002",
+            "text": "Primary Titles in Lobotomy Corporation"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Newbie"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Employee"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hunter"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Defender"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Researcher"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Analyst"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Strategist"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Negotiator"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Intellectual"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Assistant"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Veteran"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Old-Timer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Specialist"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Senior"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Slayer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pursuer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fire Eater"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Investigator"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Philosopher"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Architect"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Arbitrator"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Comprehender"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Unifier"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Commander"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hero"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Pillar"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Grand Senior"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Coordinator"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Enforcer"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mediator"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Pathfinder"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Overseer"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Warden"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Chronicler"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Sentinel"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Advisor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Vanguard"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Custodian"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Pioneer"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Guardian"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Apprentice"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mentor"
+                }
+            ],
+            "id": "400003",
+            "text": "Secondary Titles in Lobotomy Corporation"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "1.76 MHz"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "CENSORED"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Singing Machine"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dimensional Refraction Variant"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Melting Love"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The FireBird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Blue Star"
+                }
+            ],
+            "id": "400004",
+            "text": "Abnormalities that are missing either a Weapon or Suit"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "TT2 Protocol"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Joint Command"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Assembly Summons"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "G.O Visualization"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Damage Normalization"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Abnormality Countermeasures Manual"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Regenerator Mk2"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mental Corruption Neutralizing Gas"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Regenerator Distinguisher Modification"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Supply Educational Manuals"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Improve Work Education"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Improve Hiring Procedures"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Physical Intervention Shield"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Trauma Shield"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Erosion Shield"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Execution Bullets"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Qliphoth Intervention Field"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rabbit Team"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "HP-N Bullets"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "SP-E Bullets"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "HP & SP Bullet Refining"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Limit Break: The Virtue of Protection"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Limit Break: The Virtue of Governance"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Limit Break: The Virtue of Creation"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "E.G.O. Restoration"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Re-extraction"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Gift Division"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Neural Stabilization Matrix"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Cognitive Enhancement Protocol"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Anomaly Detection System"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Psychic Barrier Deployment"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Memory Reconstruction Engine"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Shadow Operations Manual"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Containment Protocol Alpha"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Entity Classification Database"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Void Resonance Amplifier"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Temporal Anchor Systems"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Consciousness Transfer Module"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Reality Stabilization Field"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Project Mindbridge"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Essence Purification Chamber"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dimensional Breach Detector"
+                }
+            ],
+            "id": "400005",
+            "text": "Researches"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Crumbling Armor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The King of Greed"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Der Freischütz"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Judgement Bird"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "You're Bald..."
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Funeral of the Dead Butterflies"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Big Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Queen Bee"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Yin"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Schadenfreude"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Knight of Despair"
+                }
+            ],
+            "id": "400006",
+            "text": "Abnormalities with E.G.O. Risk level higher than itself"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Ayin"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "X"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Abel"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Abram"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Adam"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Amos"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Alden"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Alaric"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Arlo"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Arden"
+                }
+            ],
+            "id": "400007",
+            "text": "All A and his Reflections names"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Opened Can of WellCheers"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "We Can Change Anything"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "You Must Be Happy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Don't Touch Me"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "One Sin and Hundreds of Good Deeds"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "You're Bald..."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Old Faith and Promise"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mirror of Adjustment"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Plague Doctor"
+                }
+            ],
+            "id": "400008",
+            "text": "ZAYIN abnormalities with the ability to instakill" 
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Void Dream"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Today's Shy Look"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fragment of the Universe"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "1.76 MHz"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Beauty and the Beast"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Lady Facing the Wall"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Old Lady"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Grave of Cherry Blossoms"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Meat Lantern"
+                }
+            ],
+            "id": "400009",
+            "text": "TETH abnormalities that deals BLACK damage"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "One Sin and Hundreds of Good Deeds"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Standard Training-Dummy Rabbit"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Happy Teddy Bear"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Singing Machine"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Plague Doctor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Punishment Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Snow Queen"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Fire Bird"
+                }
+            ],
+            "id": "400010",
+            "text": "Abnormalities that Don't Touch Me can transform its appearance to"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Scorched Girl"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Beauty and the Beast"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Red Shoes"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Plague Doctor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nameless Fetus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Old Lady"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Naked Nest"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "WhiteNight"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Snow Queen"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nothing There"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "1.76 MHz"
+                }
+            ],
+            "id": "400011",
+            "text": "Abnormalities that Don't Touch Me can mimic its visual effects"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Army in Black"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Big Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Plague Doctor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Old Lady"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The FireBird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Clouded Monk"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "WhiteNight"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dream of a Black Swan"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mountain of Smiling Bodies"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Scorched Girl"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "All-Around Helper"
+                }
+            ],
+            "id": "400012",
+            "text": "Abnormalities that can increase its qliphoth counter"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Beauty and the Beast"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Big and Will be Bad Wolf"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Der Freischütz"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dream of a Black Swan"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Little Red Riding Hooded Mercenary"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Opened Can of WellCheers"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Rudolta of the Sleigh"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Scarecrow Searching for Wisdom"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mountain of Smiling Bodies"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Scorched Girl"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Snow White's Apple"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Lady Facing the Wall"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Snow Queen"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Warm-hearted Woodsman"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Apocalypse Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Big Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Punishing Bird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Red Shoes"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Little Prince"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Knight of Despair"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The King of Greed"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nameless Fetus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Laetitia"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Child of the Galaxy"
+                }
+            ],
+            "id": "400013",
+            "text": "Abnormalities from a Fairytale (F Prefix)"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Crumbling Armor"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nameless Fetus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Standard Training-Dummy Rabbit"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Naked Nest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Opened Can of WellCheers"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Little Red Riding Hooded Mercenary"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Big and Will be Bad Wolf"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Firebird"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dream of a Black Swan"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Bloodbath"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Rudolta of the Sleigh"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Singing Machine"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Knight of Despair"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Snow Queen"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Mountain of Smiling Bodies"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Porccubus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CENSORED"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Der Freischütz"
+                }
+            ],
+            "id": "400014",
+            "text": "Abnormalities that deal RED work damage"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Spider Bud"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Laetitia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Knight of Despair"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Naked Nest"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Express Train to Hell"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "You're Bald..."
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Today's Shy Look"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Crumbling Armor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "1.76 MHz"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Plague Doctor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Child of the Galaxy"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dream of a Black Swan"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Burrowing Heaven"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Meat Lantern"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Snow Queen"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Porccubus"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CENSORED"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Der Freischütz"
+                }
+            ],
+            "id": "400015",
+            "text": "Abnormalities with no qliphoth counter"
+        }
+        
+    ]
+}
