@@ -1,5 +1,5 @@
-# Vanguard-TMP
- A Vanguard Mod for Trivia Murder Party 2
+# Lobotomy-TMP
+ A Trivia Murder Party 2 mod made for Lobotomy Corporation fandom.
  Currently Modifies
  - Normal Questions
  - Final Round Questions
@@ -8,10 +8,9 @@
 
 ## Current Focuses on Future Updates
 - Mirror Minigame
-- ~~Potential Dictation Minigame Modifications~~
 - More Questions (Focusing on the Final Round)
 
-![Preview](https://media.discordapp.net/attachments/1264211564245024818/1277675286653309091/image.png?ex=66ce0756&is=66ccb5d6&hm=058690465b0770a6c431ccb1daf8c1c14877a24e8729fd4b8d2c11422e406caf&=&format=webp&quality=lossless)
+![Preview](https://i.ibb.co/SwcdmS39/image.png)
 
 
 ## How to Install the Mod
@@ -29,6 +28,9 @@ All left is just put the files and folders into the content folder, replace the 
 ## Update Log
 ### V1.0
 - 51 Normal Questions
-- 33 Final Round Questions
-- 3 Mind Meld Topics
-- All Questions Voices
+- 38 Final Round Questions
+- 5 Mind Meld Topics
+- All Questions Voiced
+
+## Contact
+Discord: iyako
