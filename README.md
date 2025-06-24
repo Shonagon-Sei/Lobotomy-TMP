@@ -31,3 +31,6 @@ All left is just put the files and folders into the content folder, replace the 
 - 38 Final Round Questions
 - 5 Mind Meld Topics
 - All Questions Voiced
+
+## Contact
+Discord: iyako
