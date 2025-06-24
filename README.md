@@ -19,7 +19,7 @@
 ### Deleting Game Files
 Open up your steam library and search up Jackbox Party Pack 6 or Jackbox Party Starter Pack depending on which one you have, and right click it and select Browse Local Files.<br>
 ![Step 1](https://i.ibb.co/HrGw0gt/Screenshot-2024-08-26-235023.png)
-<br><br>Then when the directory pops up, open up the content folder.
+<br><br>Then when the directory pops up navigate the folders `Games>TriviaDeath2>Content` to open up the content folder.
 ![Step 2](https://i.ibb.co/BPkWjP4/Screenshot-2024-08-26-235109.png)
 <br><br>Lastly delete the TDFinalRound and TDQuestions folder
 ![Step 3](https://i.ibb.co/mbNZcGv/Screenshot-2024-08-26-235200.png)
