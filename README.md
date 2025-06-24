@@ -6,6 +6,8 @@
  - Mind Meld Topics
 <br>With everything voiced!<br>More will be coming soon, and an Update log is noted at the bottom
 
+**At the current version, up to 2 play loops is recommended if you want to avoid duplicate questions. More than 2 rounds may have duplicate Final round questions (tho answers will still be random so it might still give a fresh experience for most people)**
+
 ## Current Focuses on Future Updates
 - Mirror Minigame
 - More Questions (Focusing on the Final Round)
