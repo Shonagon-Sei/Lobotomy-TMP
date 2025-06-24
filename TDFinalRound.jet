@@ -2277,7 +2277,7 @@
                 }
             ],
             "id": "400008",
-            "text": "ZAYIN abnormalities with the ability to instakill" 
+            "text": "ZAYIN abnormalities with the ability to instakill"
         },
         {
             "choices": [
@@ -2840,7 +2840,506 @@
             ],
             "id": "400015",
             "text": "Abnormalities with no qliphoth counter"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Will to Stand Up Straight"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Rationality to Maintain Discretion"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Hope To Be a Better Person"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Fearlessness to Keep on Living"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Expectation for the Meaning of Existence"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Courage to Protect"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Those who are Faithful and Trustworthy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Eye Facing the Fear; Breaking the Cycle"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Eye Embracing the Past; Building the Future"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Wisdom to Accept What Cannot Change"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Strength to Overcome All Obstacles"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Will to Protect Those Who Are Faithful"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Mind That Seeks Truth Above All"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Courage to Keep on Living Straight"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Hope to Maintain the Meaning of Existence"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Fearlessness to Be Trustworthy and Discrete"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Eye Piercing Through Illusion; Revealing Truth"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Eye Watching Over Time; Guarding Destiny"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Spirit to Forge New Destinies"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Power to Transform Reality"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Voice That Echoes Through Eternity"
+                }
+            ],
+            "id": "400016",
+            "text": "Answers/Closing Line from Core Suppressions"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "It's unpredictable, isn't it?"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "I could have done it."
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "I just wanted to help out."
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Will you finally praise me? I just want to feel proud."
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Everything's all jumbled up, messed up, flustered… hahaha..."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "I never expected this to happen."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Maybe I should have tried harder."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Do you think I'm good enough now?"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "I always mess things up somehow."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "It's all falling apart, isn't it?"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "I just want someone to notice me."
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Why does everything go wrong?"
+                }
+            ],
+            "id": "400017",
+            "text": "Flavour Text during Malkuth's Core Suppression"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Bloodbath"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Heart of Aspiration"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Snow Queen"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Scorched Girl"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Happy Teddy Bear"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fairy Festival"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Queen Bee"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Snow White's Apple"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Forsaken Murderer"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "All-Around Helper"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Singing Machine"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Funeral of the Dead Butterflies"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Der Freischütz"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Today's Shy Look"
+                }
+                ,
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Red Shoes"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Spider Bud"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Laetitia"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Dream of a Black Swan"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Fragment of the Universe"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Child of the Galaxy"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Porccubus"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Alriune"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Silent Orchestra"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Queen of Hatred"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The King of Greed"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Knight of Despair"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Little Red Riding Hooded Mercenary"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Big and Will be Bad Wolf"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Mountain of Smiling Bodies"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Nothing There"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Scarecrow Searching for Wisdom"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Apocalypse Bird"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "The Burrowing Heaven"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "WhiteNight"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Little Prince"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The Naked Nest"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Schadenfreude"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Giant Tree Sap"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Meat Lantern"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Express Train to Hell"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "CENSORED"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "The FireBird"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Ppodae"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Parasite Tree"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Melting Love"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Clouded Monk"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Army in Black"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Flesh Idol"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Crumbling Armor"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Nameless Fetus"
+                }
+            ],
+            "id": "400018",
+            "text": "Abnormalities from Lobotomy Corporation that appears in Library of Ruina"
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Front Hair 11"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Back Hair 11"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hair Color Red 0"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hair Color Green 0"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Hair Color Green 255"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Basic Eyes 31"
+                },
+                {
+                    "correct": true,
+                    "difficulty": 0,
+                    "text": "Front Hair 12"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Back Hair 12"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Hair Color Red 15"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Basic Eyes 12"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Panic Eyes 1"
+                },
+                {
+                    "correct": false,
+                    "difficulty": 0,
+                    "text": "Dead Eyes 5"
+                }
+            ],
+            "id": "400019",
+            "text": "Lobotomy Bong-Bong Settings"
         }
-        
     ]
 }

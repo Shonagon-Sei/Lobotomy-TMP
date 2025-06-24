@@ -4,19 +4,19 @@
             "choices": [
                 {
                     "correct": false,
-                    "text": "[i]Training-Dummy Rabbit[/i]"
+                    "text": "Training-Dummy Rabbit"
                 },
                 {
                     "correct": true,
-                    "text": "[i]Standard Training-Dummy Rabbit[/i]"
+                    "text": "Standard Training-Dummy Rabbit"
                 },
                 {
                     "correct": false,
-                    "text": "[i]Standard Training Rabbit[/i]"
+                    "text": "Standard Training Rabbit"
                 },
                 {
                     "correct": false,
-                    "text": "[i]Elementary Training-Dummy Rabbit[/i]"
+                    "text": "Elementary Training-Dummy Rabbit"
                 }
             ],
             "id": "300001",
@@ -31,19 +31,19 @@
             "choices": [
                 {
                     "correct": false,
-                    "text": "[i]Blue Star[/i]"
+                    "text": "Blue Star"
                 },
                 {
                     "correct": false,
-                    "text": "[i]The Funeral of the Dead Butterflies[/i]"
+                    "text": "The Funeral of the Dead Butterflies"
                 },
                 {
                     "correct": true,
-                    "text": "[i]CENSORED[/i]"
+                    "text": "CENSORED"
                 },
                 {
                     "correct": false,
-                    "text": "[i]Skin Prophecy[/i]"
+                    "text": "Skin Prophecy"
                 }
             ],
             "id": "300002",
@@ -760,33 +760,6 @@
             "choices": [
                 {
                     "correct": false,
-                    "text": "666"
-                },
-                {
-                    "correct": false,
-                    "text": "1780"
-                },
-                {
-                    "correct": true,
-                    "text": "3330"
-                },
-                {
-                    "correct": false,
-                    "text": "9999"
-                }
-            ],
-            "id": "300029",
-            "introAudio": null,
-            "outro": null,
-            "questionAudio": "How much damage does the light from confession deal to whitenight per tick if NOT accounting its 0.2 PALE resistance?",
-            "text": "How much damage does the light from confession deal to whitenight per tick if NOT accounting its 0.2 PALE resistance?",
-            "us": false,
-            "x": false
-        },
-        {
-            "choices": [
-                {
-                    "correct": false,
                     "text": "5"
                 },
                 {
@@ -802,7 +775,7 @@
                     "text": "20"
                 }
             ],
-            "id": "300030",
+            "id": "300029",
             "introAudio": null,
             "outro": null,
             "questionAudio": "How much does the chance to explode increase per usage of Giant Tree Sap?",
@@ -829,7 +802,7 @@
                     "text": "L-378"
                 }
             ],
-            "id": "300031",
+            "id": "300030",
             "introAudio": null,
             "outro": null,
             "questionAudio": "What is the name of the facility the player works in Lobotomy Corporation?",
@@ -856,11 +829,11 @@
                     "text": "2019"
                 }
             ],
-            "id": "300032",
+            "id": "300031",
             "introAudio": null,
             "outro": null,
-            "questionAudio": "What year was the INITIAL release date of Lobotomy Corporation?",
-            "text": "What year was the INITIAL release date of Lobotomy Corporation?",
+            "questionAudio": "What year was the INITIAL STEAM release year of Lobotomy Corporation?",
+            "text": "What year was the INITIAL STEAM release year of Lobotomy Corporation?",
             "us": false,
             "x": false
         },
@@ -876,18 +849,72 @@
                 },
                 {
                     "correct": false,
-                    "text": "Gebura"
+                    "text": "Chesed"
                 },
                 {
                     "correct": false,
-                    "text": "Chesed"
+                    "text": "None of the above"
+                }
+            ],
+            "id": "300032",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "text": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "10 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "15 seconds"
+                },
+                {
+                    "correct": true,
+                    "text": "20 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "30 seconds"
                 }
             ],
             "id": "300033",
             "introAudio": null,
             "outro": null,
-            "questionAudio": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
-            "text": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "questionAudio": "How many seconds do you need to look at Schadenfreude to breach it if its qliphoth counter is 2?",
+            "text": "How many seconds do you need to look at Schadenfreude to breach it if its qliphoth counter is 2?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "10 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "15 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "20 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "30 seconds"
+                }
+            ],
+            "id": "300034",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "How many seconds do you have to find and shoot Nothing There when the qliphoth counter turns 0?",
+            "text": "How many seconds do you have to find and shoot Nothing There when the qliphoth counter turns 0?",
             "us": false,
             "x": false
         },
@@ -895,26 +922,107 @@
             "choices": [
                 {
                     "correct": false,
-                    "text": "Malkuth"
+                    "text": "10 - 15"
                 },
                 {
                     "correct": false,
-                    "text": "Yesod"
+                    "text": "11 - 17"
                 },
                 {
                     "correct": true,
-                    "text": "Gebura"
+                    "text": "13 - 18"
                 },
                 {
                     "correct": false,
-                    "text": "Chesed"
+                    "text": "15 - 19"
                 }
             ],
-            "id": "300034",
+            "id": "300035",
             "introAudio": null,
             "outro": null,
-            "questionAudio": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
-            "text": "The Video in the Lobotomy Corporation Steam page featured 2 Core Suppressions, one of which is?",
+            "questionAudio": "What's the minimum amount and maximum amount of PE boxes for a neutral result on The Silent Orchestra?",
+            "text": "What's the minimum amount and maximum amount of PE boxes for a neutral result on The Silent Orchestra?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "3"
+                },
+                {
+                    "correct": false,
+                    "text": "5"
+                },
+                {
+                    "correct": true,
+                    "text": "6"
+                },
+                {
+                    "correct": false,
+                    "text": "8"
+                }
+            ],
+            "id": "300036",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "At which blessing does Plague Doctor's cloak turn white?",
+            "text": "At which blessing does Plague Doctor's cloak turn white?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "RED"
+                },
+                {
+                    "correct": false,
+                    "text": "WHITE"
+                },
+                {
+                    "correct": false,
+                    "text": "BLACK"
+                },
+                {
+                    "correct": false,
+                    "text": "PALE"
+                }
+            ],
+            "id": "300037",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "Which damage type is The King of Greed immune to?",
+            "text": "Which damage type is The King of Greed immune to?",
+            "us": false,
+            "x": false
+        },
+        {
+            "choices": [
+                {
+                    "correct": false,
+                    "text": "50 - 60 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "80 - 110 seconds"
+                },
+                {
+                    "correct": false,
+                    "text": "90 - 100 seconds"
+                },
+                {
+                    "correct": true,
+                    "text": "100 - 120 seconds"
+                }
+            ],
+            "id": "300038",
+            "introAudio": null,
+            "outro": null,
+            "questionAudio": "For Melting Love, what's the minimum and maximum time for an infected agent to turn into a slime?",
+            "text": "For Melting Love, what's the minimum and maximum time for an infected agent to turn into a slime?",
             "us": false,
             "x": false
         }
