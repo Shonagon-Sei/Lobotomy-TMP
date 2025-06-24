@@ -27,8 +27,8 @@ All left is just put the files and folders into the content folder, replace the 
 
 ## Update Log
 ### V1.0
-- 51 Normal Questions
-- 38 Final Round Questions
+- 38 Normal Questions
+- 20 Final Round Questions
 - 5 Mind Meld Topics
 - All Questions Voiced
 
